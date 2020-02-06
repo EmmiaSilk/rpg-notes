@@ -1,0 +1,29 @@
+# Site settings
+title: Emmia's RPG Notes
+email: contact@emmiasilk.com
+description: >-
+  Emmia's notes for anything RPG-related.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections_dir: _collections
+collections:
+  lula_ancestries:
+    output: true
+    permalink: /lula/ancestry/:path/
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

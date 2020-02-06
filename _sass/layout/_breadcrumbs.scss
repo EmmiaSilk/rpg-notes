@@ -1,0 +1,10 @@
+/* Breadcrumbs is either Unordered or Ordered List. */
+.breadcrumbs {
+  list-style: none;
+  font-size: $font-size-default*3/4;
+  border-bottom: 1px solid black;
+  padding-bottom: 0.5em;
+  li {
+    display: inline-block;
+  }
+}

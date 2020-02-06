@@ -1,0 +1,15 @@
+<nav class="site-nav">
+
+  {% assign page_paths = site.data.navlinks | default: {} %}
+
+  {% for path in page_paths %}
+    {% assign navpage = site.pages | where: 'path', path | first %}
+    {% if navpage.title %}
+      <a class="site-nav-link"
+        href="{{ navpage.url | relative_url }}"
+        aria-label="{{navpage.title}}">
+        {{ navpage.title | escape }}
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>
