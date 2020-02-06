@@ -14,9 +14,9 @@ plugins:
 
 collections_dir: _collections
 collections:
-  lula_ancestries:
+  uatera_ancestries:
     output: true
-    permalink: /lula/ancestry/:path/
+    permalink: /uatera/ancestry/:path/
 
 # Exclude from processing.
 exclude:
