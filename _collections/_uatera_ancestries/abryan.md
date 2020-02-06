@@ -69,5 +69,8 @@ damage.
 When wearing white in a snowy environment, you are indistinguishable from the
 snow. You may hide when you are only lightly obscured by snowfall.
 
+#### Teachings of Arapoaz
+
+
 #### Languages
 Abryan, Dwarvish
