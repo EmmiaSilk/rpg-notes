@@ -69,8 +69,11 @@ damage.
 When wearing white in a snowy environment, you are indistinguishable from the
 snow. You may hide when you are only lightly obscured by snowfall.
 
-#### Teachings of Arapoaz
+#### Traditions of Arapoaz
+You may cast Ceremony as a ritual.
 
+At 3rd level, you may cast Sanctuary once. You regain the ability to do so
+again after you finish a long rest.
 
 #### Languages
 Abryan, Dwarvish
