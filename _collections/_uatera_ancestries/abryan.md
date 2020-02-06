@@ -6,9 +6,20 @@ subtitle: Snowfolk - Humans
 
 ???
 
+## History
+According to the engravings on the hall of history, the Abryans are said to
+have been created by Arapoaz the Insightful. Living atop the Titan's back, the
+Abryans enjoyed an long era of peace and prosperity. This all changed when
+Arapoaz fell.
 
-## Culture
-Children in the Abryan Valley are encouraged to master a craft.
+During the Perversion of Titans, the gods of the world went mad. Among these
+maddened gods was Lula the Invulnerable Dragon, Arapoaz's only love. Lula
+threatened to devour Arapoaz's realm, the Abryan valley. Arapoaz hid his
+creations in a glacier, then fought with Lula in a battle that lasted three
+days, culminating in the slaying of Lula. Heavily injured by the battle,
+Arapoaz fell into a deep slumber under the glacier.
+
+Six hundred years after Arapoaz was defeated, his following remains strong.
 
 
 ## Appearance
@@ -32,7 +43,7 @@ their first apprenticeship.
 Abryans tend to be hard working folk, with the following traits.
 
 #### Ability Score Increase
-Your Wisdom score increases by 1.
+Your Wisdom score increases by 2, and your Constition score increases by 1.
 
 #### Age
 Abryans grow up at the same rate as other humans, reaching physical maturity
@@ -40,6 +51,23 @@ in their late teens. A long-living Abryan may last around a hundred years.
 
 #### Size
 Abryans range in height from under 5 feet to 6 feet tall. Your size is Medium.
+
+#### Speed
+Your base walking speed is 30 feet.
+
+#### Tool Mastery
+You are a master of your craft. You gain proficiency in one type of Artisan
+Tools. Your proficiency bonus is doubled for any ability check you make with
+this tool. The tool your choose cannot benefit from another feature, such as
+Expertise, that doubles your proficiency bonus.
+
+#### Warm Blooded
+Your body is naturally adapted to a cold climate. You have resistance to cold
+damage.
+
+#### Winter Camouflage
+When wearing white in a snowy environment, you are indistinguishable from the
+snow. You may hide when you are only lightly obscured by snowfall.
 
 #### Languages
 Abryan, Dwarvish
