@@ -2,6 +2,10 @@
 layout: article
 title: Lulans
 subtitle: Also known as Goblins
+date: February 6, 2020
+lastEdit: February 7, 2020
+sitemap:
+  changeFrequency: 'daily'
 ---
 
 Lulans are a small, scrappy folk living in the Lula circle.

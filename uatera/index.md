@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Uatera
+date: February 6, 2020
+lastEdit: February 7, 2020
+sitemap:
+  changeFrequency: 'daily'
 ---
 
 Uatera is one of many clusters of circles in the mortal world.

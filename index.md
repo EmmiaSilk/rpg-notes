@@ -2,6 +2,10 @@
 layout: page
 title: Home
 permalink: /
+date: February 6, 2020
+lastEdit: February 6, 2020
+sitemap:
+  changeFrequency: 'daily'
 ---
 
 Hello! My name is Emmia Silk. This site is for me to store my notes for

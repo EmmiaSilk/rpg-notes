@@ -1,6 +1,10 @@
 ---
 layout: article
 title: Ancestry
+date: February 6, 2020
+lastEdit: February 7, 2020
+sitemap:
+  changeFrequency: 'daily'
 ---
 
 As a player, you may choose one of a variety of ancestries in Uatera.

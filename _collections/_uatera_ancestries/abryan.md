@@ -2,6 +2,10 @@
 layout: article
 title: Abryans
 subtitle: Snowfolk - Humans
+date: February 6, 2020
+lastEdit: February 7, 2020
+sitemap:
+  changeFrequency: daily
 ---
 
 ???
