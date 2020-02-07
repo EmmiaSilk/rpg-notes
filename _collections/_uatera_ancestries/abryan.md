@@ -9,7 +9,7 @@ subtitle: Snowfolk - Humans
 ## History
 According to the engravings on the hall of history, the Abryans are said to
 have been created by Arapoaz the Insightful. Living atop the Titan's back, the
-Abryans enjoyed an long era of peace and prosperity. This all changed when
+Abryans enjoyed a long era of peace and prosperity. This all changed when
 Arapoaz fell.
 
 During the Perversion of Titans, the gods of the world went mad. Among these
@@ -19,7 +19,8 @@ creations in a glacier, then fought with Lula in a battle that lasted three
 days, culminating in the slaying of Lula. Heavily injured by the battle,
 Arapoaz fell into a deep slumber under the glacier.
 
-Six hundred years after Arapoaz was defeated, his following remains strong.
+It has been six hundred years since Arapoaz began his rest, yet his following
+remains strong.
 
 
 ## Appearance
@@ -43,7 +44,7 @@ their first apprenticeship.
 Abryans tend to be hard working folk, with the following traits.
 
 #### Ability Score Increase
-Your Wisdom score increases by 2, and your Constition score increases by 1.
+Your Wisdom score increases by 2, and your Constitution score increases by 1.
 
 #### Age
 Abryans grow up at the same rate as other humans, reaching physical maturity
@@ -58,7 +59,7 @@ Your base walking speed is 30 feet.
 #### Tool Mastery
 You are a master of your craft. You gain proficiency in one type of Artisan
 Tools. Your proficiency bonus is doubled for any ability check you make with
-this tool. The tool your choose cannot benefit from another feature, such as
+this tool. The tool you choose cannot benefit from another feature, such as
 Expertise, that doubles your proficiency bonus.
 
 #### Warm Blooded
@@ -67,7 +68,7 @@ damage.
 
 #### Winter Camouflage
 When wearing white in a snowy environment, you are indistinguishable from the
-snow. You may hide when you are only lightly obscured by snowfall.
+snow, allowing you to hide when you are only lightly obscured by snowfall.
 
 #### Traditions of Arapoaz
 You may cast Ceremony as a ritual.
@@ -76,4 +77,4 @@ At 3rd level, you may cast Sanctuary once. You regain the ability to do so
 again after you finish a long rest.
 
 #### Languages
-Abryan, Dwarvish
+Abryan, Dwarven Imperial
