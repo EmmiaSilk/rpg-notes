@@ -4,7 +4,7 @@ email: contact@emmiasilk.com
 description: >-
   Emmia's notes for anything RPG-related.
 baseurl: ""
-url: "rpgnote.emmiasilk.com"
+url: "https://rpgnotes.emmiasilk.com"
 
 # Build settings
 markdown: kramdown
