@@ -1,9 +1,13 @@
 ---
 layout: article
-title: Lulans
+title: Lulan
 subtitle: Also known as Goblins
 date: February 6, 2020
 lastEdit: February 7, 2020
+info_block:
+  description: >
+    
+  source: Homebrew
 sitemap:
   changeFrequency: 'daily'
 ---

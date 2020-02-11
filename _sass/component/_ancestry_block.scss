@@ -1,0 +1,41 @@
+.ancestry_info_block_list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  flex-direction: row;
+  justify-content: space-around;
+
+  &>li {
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    min-width: 11em;
+    flex: 1;
+  }
+  a {
+    display: block;
+    min-width: 10em;
+
+    color: inherit;
+    text-decoration: inherit;
+    padding: 0.5em;
+  }
+
+  .ancestry_info_block_header {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: $font-size-default * 1.25;
+    text-decoration: underline;
+  }
+  .ancestry_info_block_source {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: $font-size-default * 0.75;
+  }
+  .ancestry_info_block_description {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+}

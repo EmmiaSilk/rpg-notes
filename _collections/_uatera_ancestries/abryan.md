@@ -1,9 +1,14 @@
 ---
 layout: article
-title: Abryans
+title: Abryan
 subtitle: Snowfolk - Humans
 date: February 6, 2020
 lastEdit: February 7, 2020
+info_block:
+  source: Homebrew
+  description: >
+    Snow-white humans known for honor, skilled craftsmanship, and strong
+    traditions.
 sitemap:
   changeFrequency: daily
 ---
