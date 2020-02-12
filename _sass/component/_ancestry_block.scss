@@ -1,22 +1,23 @@
-.ancestry_info_block_list {
+.ancestry_info_block_list { // ul
   display: flex;
+  box-sizing: content-box;
   flex-wrap: wrap;
   list-style-type: none;
   flex-direction: row;
   justify-content: space-around;
+  margin: 0;
 
-  &>li {
-    box-sizing: border-box;
-    border: 1px solid black;
-    margin-bottom: 0.5em;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-    min-width: 11em;
-    flex: 1;
+  .ancestry_info_block { // li
+    display: block;
+    box-sizing: border-box;;\
+    margin: 0;
+    margin-bottom: 1em;
   }
   a {
     display: block;
-    min-width: 10em;
+    height: 100%;
+    min-height: 50em;
+    padding: 0.5em;
 
     color: inherit;
     text-decoration: inherit;
@@ -37,5 +38,22 @@
   .ancestry_info_block_description {
     margin-top: 0;
     margin-bottom: 0.5em;
+  }
+}
+
+
+@media (max-width: 33em) {
+  .ancestry_info_block {
+    width: 50%;
+  }
+}
+@media (max-width: 22em) {
+  .ancestry_info_block {
+    width: 100%;
+  }
+}
+@media (min-width: 33em) {
+  .ancestry_info_block {
+    width: 33%;
   }
 }
