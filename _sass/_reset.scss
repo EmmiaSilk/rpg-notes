@@ -31,6 +31,16 @@ ol {
 }
 ul {
 	list-style: disc inside none;
+	li {
+		margin-left: 1em;
+	}
+}
+
+ul li ul {
+	list-style: circle inside none;
+	li {
+		margin-left: 2em;
+	}
 }
 
 blockquote, q {
