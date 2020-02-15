@@ -2,7 +2,7 @@
 layout: article
 title: Nereid
 subtitle: Sea Nymphs
-version: 0.1.0
+version: 0.1.1
 info_block:
   source: Homebrew
   race: Nymph
@@ -88,12 +88,11 @@ you take a long rest. To cast Cure Wounds, you must kiss the target. Wisdom
 is your spellcasting ability for these spells.
 
 #### Amphibious
-You can breath both air and water.
+You can breath both air and water. You must drink four times as much water per
+day as other creatures your size.
 
 #### Cleansing Body
-When you are submerged in water, you are able to end the Paralyzed or
-Poisoned condition on yourself. You regain the ability to do this again when
-taking a long or short rest.
+You are resistant to Acid damage.
 
 #### Speak with Ocean Creatures
 Through sounds and gestures, you can communicate simple ideas with aquatic
