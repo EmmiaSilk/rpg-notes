@@ -88,7 +88,7 @@ you take a long rest. To cast Cure Wounds, you must kiss the target. Wisdom
 is your spellcasting ability for these spells.
 
 #### Amphibious
-You can breath both air and water. You must drink four times as much water per
+You can breathe both air and water. You must drink four times as much water per
 day as other creatures your size.
 
 #### Cleansing Body
