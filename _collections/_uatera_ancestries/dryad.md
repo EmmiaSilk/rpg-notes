@@ -50,10 +50,11 @@ of Souls. The success of the sapling is indicative of the success the child
 will have in life, as the lives of the child and the sapling are closely
 intertwined.
 
-Those who commit terrible crimes against the forest are cursed to protect it
-forever. Their lives are bonded to the tree of their birth, whereby if the tree
-dies, the Dryad will also die. If the dryad abandons their post protecting the
-tree, they will become weaker until they collapse on the earth and perish.
+Dryads who commit crimes against the forest are forced to protect it forever.
+Their lives are bonded to the tree that was planted when they were born. If the
+tree dies, the Dryad dies. Additionally, if the Dryad abandons their post
+protecting the tree, they will become weaker until they collapse upon the earth
+and perish.
 
 
 ## Dryad Names
