@@ -2,7 +2,7 @@
 layout: article
 title: Nereid
 subtitle: Sea Nymphs
-version: 0.1.1
+version: 0.1.2
 info_block:
   source: Homebrew
   race: Nymph
@@ -70,12 +70,12 @@ As a Nereid, you have the following traits.
 Your Wisdom score increases by 2. Your Charisma score increases by 1.
 
 #### Age
-Nereids mature at the same rate humans do, but do not declare themselves to be
-adults until around the age of 30. A Nereid is likely to die of age by the time
+Nymphs mature at the same rate humans do, but do not declare themselves to be
+adults until around the age of 30. A Nymph is likely to die of age by the time
 they reach 200.
 
 #### Size
-Nereids are slightly shorter than humans, averaging about 5 and a half feet
+Nymphs are slightly shorter than humans, averaging about 5 and a half feet
 tall. Your size is Medium.
 
 #### Speed
