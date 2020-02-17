@@ -1,10 +1,12 @@
 ---
 layout: article
 title: Nighthandler
+version: 1.1.0
 info_block:
   description: >
     Intelligent Night Beasts with access to arcane power.
   source: Homebrew
+
 date: February 7, 2020
 lastEdit: February 10, 2020
 sitemap:
@@ -71,7 +73,7 @@ with a band of trusted allies who can protect them if trouble comes their way.
 As a Nighthandler, you have the following traits.
 
 #### Ability Score Increase
-Your Charisma score increases by 2 and your Dexterity score increases by 1.
+Your Intelligence score increases by 2 and your Dexterity score increases by 1.
 
 #### Age
 Nighthandlers are battle-ready as soon as they are born. They do not visibly
@@ -103,12 +105,19 @@ Nighthandlers only need to sleep for 4 hours a day. They still need to rest
 for 8 hours to gain the benefits of a Long Rest.
 
 #### Word of Power
-Choose any word. This is your word of power.
+Choose any word. This is your word of power. The spells you choose for this
+feature should be related to your word of power.
 
-You know one cantrip of your choice from the Sorcerer spell list. When you
-reach 3rd level, you learn one 1st level spell of your choice from the Sorcerer
+You know one cantrip of your choice from the Warlock spell list. When you
+reach 3rd level, you learn one 1st level spell of your choice from the Warlock
 spell list, which you can cast once and regain the ability to do so again when
-you finish a long rest. Charisma is your Spellcasting ability for these spells.
+you finish a long rest. Intelligence is your Spellcasting ability for these
+spells.
+
+#### Mental Connection
+You can communicate telepathically with any creature you can see within 30 feet
+of you. If it understands at least one language, it can respond to you
+telepathically.
 
 #### Languages
 You can speak two languages, which are the languages you spoke before you were
