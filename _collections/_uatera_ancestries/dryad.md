@@ -2,7 +2,7 @@
 layout: article
 title: Dryad
 subtitle: Wood Nymphs
-version: 0.0.1
+version: 0.1.0
 info_block:
   source: Homebrew
   race: Nymph
@@ -85,10 +85,11 @@ tall. Your size is Medium.
 Your base walking speed is 30 feet.
 
 #### Nymphic Magic
-You know the Druidcraft cantrip. At 3rd level, you learn the Cure Wounds spell,
-which you can cast once at 1st level and regain the ability to do so again when
-you take a long rest. To cast Cure Wounds, you must kiss the target. Wisdom
-is your spellcasting ability for these spells.
+You know the Druidcraft cantrip. When you reach 3rd level, you learn the Cure
+Wounds spell, which you can cast as a 2nd-level spell once with this trait
+and regain the ability to do so again when you finish a long rest. To cast
+Cure Wounds with this trait, you must kiss the target. Wisdom is your
+spellcasting ability for these spells.
 
 #### Speak with Plant Life
 Through sounds and gestures, you can communicate simple ideas with plants, and
