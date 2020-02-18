@@ -16,7 +16,11 @@ and the scrappy Lulans.
     <li class="ancestry_info_block">
       <a href="{{ancestry.url}}">
         <p class="ancestry_info_block_header"> {{ancestry.title}} </p>
-        <p class="ancestry_info_block_source"> Source: {{ancestry.info_block.source}} </p>
+        <div class="ancestry_info_block_subheader">
+          <p class="ancestry_info_block_source"> Source: {{ancestry.info_block.source}} </p>
+          <p class="ancestry_info_block_race"> Race: {{ancestry.info_block.race}} </p>
+          <p class="ancestry_info_block_version"> Version: {{ancestry.version}} </p>
+        </div>
         <p class="ancestry_info_block_description"> {{ancestry.info_block.description}} </p>
       </a>
     </li>
