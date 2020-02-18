@@ -2,7 +2,7 @@
 layout: article
 title: Dryad
 subtitle: Wood Nymphs
-version: 0.1.0
+version: 0.2.0
 info_block:
   source: Homebrew
   race: Nymph
