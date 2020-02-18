@@ -103,6 +103,10 @@ your Dexterity modifier. You can use your natural armor to determine your AC if
 the armor you wear would leave you with a lower AC. A shield's benefits apply
 as normal when you use your natural armor.
 
+#### Home Terrain
+You are particularly skilled at tracking in wooded areas. You have advantage on
+Wisdom (Survival) checks when tracking creatures in the forest.
+
 #### Languages
 You can speak, read, and write Dryadic and Dwarven Imperial. The Dryadic
 language is a dialect of Nymphic that should only be spoken in the forest or
