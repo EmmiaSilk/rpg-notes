@@ -2,16 +2,16 @@
 layout: article
 title: Dryad
 subtitle: Wood Nymphs
-version: 0.2.0
+version: 1.0.0
 info_block:
   source: Homebrew
   race: Nymph
   description: >
     Nymphs with a close connection to nature and a strong Druidic tradition.
-date: February 16, 2020
-lastEdit: February 16, 2020
+date: February 20, 2020
+lastEdit: February 20, 2020
 sitemap:
-  changeFrequency: 'daily'
+  changeFrequency: 'weekly'
 ---
 
 Dryads, also known as Wood Nymphs, are a nymphic ancestry closely connected

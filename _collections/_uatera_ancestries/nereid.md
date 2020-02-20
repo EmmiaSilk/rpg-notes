@@ -2,16 +2,16 @@
 layout: article
 title: Nereid
 subtitle: Sea Nymphs
-version: 0.1.3
+version: 1.0.0
 info_block:
   source: Homebrew
   race: Nymph
   description: >
     Amphibious nymphs with a strong connection to water and healing.
-date: February 13, 2020
-lastEdit: February 13, 2020
+date: February 20, 2020
+lastEdit: February 20, 2020
 sitemap:
-  changeFrequency: 'daily'
+  changeFrequency: 'weekly'
 ---
 
 Nereids are amphibious Nymphs found in Lula's Moonsea.
